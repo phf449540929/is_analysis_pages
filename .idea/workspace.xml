@@ -1,7 +1,228 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffe6e8ec-0122-406f-9f00-e508919ab837" name="Default Changelist" comment="" />
+    <list default="true" id="ffe6e8ec-0122-406f-9f00-e508919ab837" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test6/choose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/choose_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/data/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/data/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/choose/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/choose/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/choose_1/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/choose_1/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get_1/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get_1/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get_2/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/get_2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/login/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/login/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/logout/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/logout/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_1/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_1/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_10/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_10/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_11/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_11/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_12/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_12/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_13/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_13/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_14/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_14/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_2/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_2/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_3/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_3/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_4/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_4/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_5/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_5/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_6/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_6/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_7/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_7/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_8/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_8/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_9/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/files/set_9/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/get.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/get_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/get_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/images/choose/u44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/images/choose/u55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/images/choose_1/u99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/images/set/u12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/images/set_6/u435.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/logout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/debug.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/reset.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/reset_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/debug/styles/images/variables_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/back_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/back_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/footnotes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/forward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/forward.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/forward_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/forward_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/images/notes_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/page_notes/styles/page_notes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/recordplay/recordplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/recordplay/styles/recordplay.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/079_page_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/086_case_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/225_responsive_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/228_togglenotes_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/229_variables_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/231_event_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/232_search_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/233_hyperlink_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/235_folderclosed_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/236_folderopen_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/adaptivecheck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/flow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/flow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/folder_closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/folder_closed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/folder_open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/folder_open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/hotspots_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/minus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/note.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/note.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/plus.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/share_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/sitemap_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/images/views_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/plugins/sitemap/styles/sitemap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/Other.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/allow-access.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/axure-chrome-extension.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/axure_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/chrome.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/details.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/extensions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/safari.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/safari_advanced.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/safari_restrictions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/splitter.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/chrome/splitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/axure_rp_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/newwindow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/note.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_glass_75_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-bg_inset-soft_95_fef1ec_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/jquery-ui-themes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/expand.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/259_close_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/259_close_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/260_collapse_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/260_collapse_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/261_expand_12rollover1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/261_expand_12rollover2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/close_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/close_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/divider.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/expand.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/expand_hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/expand_hover.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/images.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/images/transparent.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/reload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/jquery-ui-1.8.10.custom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/messagecenter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/player/axplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/player/splitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/prototypePost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/prototypePre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/startPost.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/resources/scripts/startPre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/set_9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/start.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/start_c_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/start_g_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test6/test6.rp" beforeDir="false" afterPath="$PROJECT_DIR$/test6/test6.rp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +233,7 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +261,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,14 +273,12 @@
             <path>
               <item name="is_analysis_pages" type="b2602c69:ProjectViewProjectNode" />
               <item name="is_analysis_pages" type="462c0819:PsiDirectoryNode" />
-              <item name="test5" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -94,16 +315,17 @@
       <workItem from="1555901872064" duration="139000" />
       <workItem from="1555902088613" duration="140000" />
       <workItem from="1556381020019" duration="620000" />
+      <workItem from="1556457106639" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="899000" />
+    <option name="totallyTimeSpent" value="1824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -119,7 +341,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33002833" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -140,8 +362,22 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page_1.html">
+    <entry file="file://$PROJECT_DIR$/page_1.html" />
+    <entry file="file://$PROJECT_DIR$/test6/choose.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/set_12.html">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/set_13.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/get.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-525" />
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
